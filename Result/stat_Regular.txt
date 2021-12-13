@@ -1,0 +1,10 @@
+G:\Projects\MIS\Input\Regular\Regular_102.txt 52 3.781
+G:\Projects\MIS\Input\Regular\Regular_202.txt 102 17.715
+G:\Projects\MIS\Input\Regular\Regular_302.txt 152 31.517
+G:\Projects\MIS\Input\Regular\Regular_402.txt 202 54.39
+G:\Projects\MIS\Input\Regular\Regular_502.txt 252 93.414
+G:\Projects\MIS\Input\Regular\Regular_602.txt 302 173.42
+G:\Projects\MIS\Input\Regular\Regular_702.txt 352 195.09
+G:\Projects\MIS\Input\Regular\Regular_802.txt 402 195.091
+G:\Projects\MIS\Input\Regular\Regular_902.txt 452 335.386
+G:\Projects\MIS\Input\Regular\Regular_1002.txt 502 406.886
